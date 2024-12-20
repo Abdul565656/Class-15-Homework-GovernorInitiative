@@ -10,7 +10,7 @@ A simple Next.js project that demonstrates dynamic routing and data fetching fro
 
 ## Preview
 
-<a href="www.google.com">Click Here To See The Project</a>
+<a href="https://class-15-homework-governor-initiative.vercel.app/">Click Here To See The Project</a>
 
 ## Technologies Used
 
